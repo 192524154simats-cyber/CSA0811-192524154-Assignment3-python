@@ -1,0 +1,2 @@
+# Only the Python standard library is used (random, time, copy, sys, tracemalloc, collections, datetime, string).
+# No pip install needed. Python 3.12.
